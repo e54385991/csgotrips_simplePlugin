@@ -2,6 +2,8 @@
     "project": "xbuild", 
     "targets": 
     [
-        { "xbuild.sp": "xbuild.smx" }
-    ]
+        { "xbuild.sp": "xbuild.smx" },
+        { "233.sp": "233.smx" }
+    ],
+    "toolchain" : "sm1_10"
 }
