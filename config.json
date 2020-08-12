@@ -1,0 +1,7 @@
+{
+    "project": "xbuild", 
+    "targets": 
+    [
+        { "xbuild.sp": "xbuild.smx" }
+    ]
+}
